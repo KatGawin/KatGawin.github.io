@@ -1,0 +1,24 @@
+ body{
+       background: gray; 
+       font-size: 14px;
+}
+
+h1 {color:#b61628;}
+li{
+       list-style:none;
+       display: inline;
+
+}
+li a{
+       margin-left: 30px; 
+       text text-decoration:none;
+       font-size: 25px;
+}
+.pict{
+       width: 40%
+       margin: 0 auto;
+}
+
+.pict img{
+       width: 100%;
+}
